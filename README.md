@@ -67,3 +67,6 @@
 
 ### 金瓶梅男女双播剧全本解读世间第一奇书（完结）等2个文件
 链接: https://pan.baidu.com/s/1BnkF8by1fOIeALeCDPFSew?pwd=wru3 提取码: wru3
+
+### 「女人这点事儿」女人必看书籍
+链接：https://pan.quark.cn/s/94f0af73c88e
