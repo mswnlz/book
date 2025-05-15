@@ -82,6 +82,28 @@
 链接：https://pan.quark.cn/s/94f0af73c88e
 
 
+### 「蒋勋细说庄子（完结）」
+链接：https://pan.quark.cn/s/e68811006a1b
+
+### 「 听蒋勋讲中国文学【完结】」
+链接：https://pan.quark.cn/s/ef40eb10f9e8
+
+### 「【电子书精选】写给大家的西洋美术史.蒋勋」
+链接：https://pan.quark.cn/s/1b722225461c
+
+### 「蒋勋西洋美术史24讲」
+链接：https://pan.quark.cn/s/b30be170554d
+
+### 「蒋勋中国美术史24讲」
+链接：https://pan.quark.cn/s/14ac360d0a7a
+
+### 「【电子书精选】蒋勋说红楼梦(典藏版)(套装共8册) - 蒋勋」
+链接：https://pan.quark.cn/s/ce05eb65a218
+
+### 「蒋勋细说红楼梦（全80回）」
+链接：https://pan.quark.cn/s/525db3816bdd
+
+
 ---------------
 # 项目更多资源
 
@@ -104,6 +126,7 @@
 
 [书籍资料相关的，包括各种教程、小说等各种书籍](https://github.com/mswnlz/book)
 
+[健身、锻炼、饮食、营养，健康，睡眠等，持续更新中](https://github.com/mswnlz/healthy)
 
 ---------------
 
