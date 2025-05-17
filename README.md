@@ -3,6 +3,25 @@
 
 // 20250517
 
+### 「清华大学(出版社)【图书馆全部书籍】」
+链接：https://pan.quark.cn/s/8c066f153281
+
+
+### 「《创世卓越系列丛书》（52本高清晰PDF图书）」
+链接：https://pan.quark.cn/s/d8ad7eec0125
+
+### 「心理学书籍301本」
+链接：https://pan.quark.cn/s/ddd3032bb768
+
+### 「豆瓣图书TOP250」
+链接：https://pan.quark.cn/s/855ad93cb994
+
+
+### 【100部经典世界名著】名家讲堂精华版【音频】【3GB】
+链接：https://pan.quark.cn/s/cc3b6c1519fe
+
+
+
 ### 计算机电子书，上万本电子书汇总
 https://github.com/it-ebooks-0
 
