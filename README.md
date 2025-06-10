@@ -1,6 +1,9 @@
 # book
 书籍资料相关的，包括各种教程、小说、哲学巨著等上千种书籍，持续更新中
 
+[English](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=en) | [简体中文](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=zh-CN) | [繁體中文](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=zh-TW) | [日本語](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=ja) | [한국어](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=ko) | [हिन्दी](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=hi) | [ไทย](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=th) | [Français](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=fr) | [Deutsch](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=de) | [Español](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=es) | [Italiano](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=it) | [Русский](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=ru) | [Português](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=pt) | [Nederlands](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=nl) | [Polski](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=pl) | [العربية](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=ar) | [فارسی](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=fa) | [Türkçe](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=tr) | [Tiếng Việt](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=vi) | [Bahasa Indonesia](https://openaitx.github.io/view.html?user=mswnlz&project=book&lang=id)
+
+
 ### 「失去的三十年，书籍」
 链接：https://pan.quark.cn/s/0f355e924f22
 
