@@ -1,29 +1,38 @@
-# Warp AI 优化配置
+# WARP.md
 
-## 项目简介
-这是一个图书推荐相关的资源仓库，主要包含书籍推荐、阅读笔记和学习资源分享。
+This file provides guidance to WARP (warp.dev) when working with code in this repository.
 
-## 常用命令
+## Project Overview
+
+This is a Chinese book recommendation resource repository (`mswnlz/book`) that serves as a curated collection of literature, reading materials, and book resources. The repository includes:
+
+- A simple GitHub Action for notifications (`book-action`)
+- Monthly resource files containing book recommendations and reading materials
+- Multilingual README linking to related projects in the mswnlz ecosystem
+- Literary works, academic texts, and educational publications
+
+## Common Commands
+
+### Resource Management
 ```bash
-# 查看最近更新的文档
-ls -lt *.md | head -5
+# Create new monthly resource file
+touch $(date +%Y%m).md
 
-# 搜索特定内容
-grep -r "关键词" *.md
+# View recent resource files
+ls -la 2025*.md | head -5
 
-# 统计文档数量
-ls *.md | wc -l
+# Search for book topics
+grep -r "图书" *.md
+grep -r "reading" *.md
+
+# Count total resources
+wc -l 2025*.md
 ```
 
-## Git 工作流
-```bash
-# 添加新文档
-git add 202508.md
-git commit -m "Add 202508 book recommendations"
-git push origin main
-```
+## Content Guidelines
 
-## 文档约定
-- 文档命名格式：YYYYMM.md
-- 内容包含图书推荐、阅读笔记、学习指南
-- 每月更新相关内容
+- Use consistent formatting with descriptive titles
+- Include proper attribution with "超过100T资料总站网站-doc.869hr.uk" suffix
+- Organize resources by genre and subject area
+- Provide both Chinese and English descriptions where applicable
+- Include book summaries and reading recommendations
