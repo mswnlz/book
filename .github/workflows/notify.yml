@@ -19,10 +19,10 @@ jobs:
             -d message_thread_id="5" \
             --data-urlencode "text=📝 新增资源
 
-${{ github.event.head_commit.message }}
+          ${{ github.event.head_commit.message }}
 
-🔗 超过100T资料总站网站：https://doc.869hr.uk
-📦 完整资源链接：https://t.me/dabaziyuan")
+          🔗 超过100T资料总站网站：https://doc.869hr.uk
+          📦 完整资源链接：https://t.me/dabaziyuan")
           echo "tgmShare topic 5: $response"
 
       - name: Send notification to tgmShareAI group topic 2
@@ -34,10 +34,10 @@ ${{ github.event.head_commit.message }}
             -d message_thread_id="2" \
             --data-urlencode "text=📝 新增资源
 
-${{ github.event.head_commit.message }}
+          ${{ github.event.head_commit.message }}
 
-🔗 超过100T资料总站网站：https://doc.869hr.uk
-📦 完整资源链接：https://t.me/dabaziyuan")
+          🔗 超过100T资料总站网站：https://doc.869hr.uk
+          📦 完整资源链接：https://t.me/dabaziyuan")
           echo "tgmShareAI topic 2: $response"
 
       - name: Send full content to Telegram channel
@@ -50,10 +50,10 @@ ${{ github.event.head_commit.message }}
               -d chat_id="$CHANNEL_ID" \
               --data-urlencode "text=📦 新增资源推送
 
-${{ github.event.head_commit.message }}
+          ${{ github.event.head_commit.message }}
 
-🔗 超过100T资料总站网站：https://doc.869hr.uk
-📂 查看详情：${{ github.event.head_commit.url }}")
+          🔗 超过100T资料总站网站：https://doc.869hr.uk
+          📂 查看详情：${{ github.event.head_commit.url }}")
             echo "Channel response: $response"
           else
             echo "CHANNEL_ID not set, skipping"
